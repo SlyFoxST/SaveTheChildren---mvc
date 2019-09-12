@@ -1,0 +1,36 @@
+@media all and (max-width: 720px) {
+  .cklick-login {
+    width: 300px;
+    padding: 30px 20px; }
+  .section-form {
+    width: 80% !important;
+    padding: 140px 40px !important; }
+  .wrapper-index {
+    background-position: center center !important; }
+  .form-register input {
+    height: 45px; } }
+
+@media all and (max-width: 767px) {
+  .hello-user {
+    text-align: left; }
+  .logout {
+    text-align: left; } }
+@media all and (max-width: 370px){
+  .section-form {
+    width: 80% !important;
+    padding: 140px 5px !important;
+  }
+}
+
+@media all and (max-width: 991px) {
+  .wrapper-view-profile {
+    height: 60vh; }
+  .navigation {
+    display: none; } }
+
+@media all and (min-width: 1500px) {
+  .wrapper-index {
+    background: url(../img/fon2.png) top center no-repeat !important; } }
+
+.toggle {
+  display: block; }

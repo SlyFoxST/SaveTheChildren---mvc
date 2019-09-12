@@ -1,0 +1,28 @@
+@media print {
+	body{
+		background: none;
+	}
+	.travel ul li span{font-weight: 300 !important}
+	.humburger {
+		display: none;
+	}
+	nav{
+		display: none !important;
+	}
+	.top-line{
+		display: none !important;
+	}
+	.wrapper-edit-profile i{
+		display: none !important;
+	}
+	.wrapper-edit-profile h1{
+		display: none !important;
+	}
+	.submit-edit-main-user{
+		display: none !important;
+	}
+
+	.Approval,.NotApprovad{
+		display: none !important;
+	}
+}
